@@ -11,7 +11,9 @@
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d public"
   },
   "dependencies": {
     "gatsby": "^2.24.41",
