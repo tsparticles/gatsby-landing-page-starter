@@ -1,0 +1,80 @@
+html, body, #root, .App {
+    height: 100vh;
+    font-family: "Helvetica Neue", serif;
+}
+
+body {
+    background: #000;
+    margin: 0;
+}
+
+.flex-container {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.row {
+    width: auto;
+    border-radius: 30px;
+    padding: 10vh 10vw;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.flex-item {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.social {
+    text-align: center;
+    font-size: 20pt;
+}
+
+.social a {
+    color: #fff;
+    margin: 0 5px;
+    text-decoration: none;
+}
+
+.social a:visited {
+    color: #fff;
+    text-decoration: none;
+}
+
+.social a:active {
+    color: #fff;
+    text-decoration: none;
+}
+
+.social a:hover {
+    color: #dedede;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 40pt;
+}
+
+h2 {
+    font-size: 25pt;
+}
+
+#tsparticles {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    left: 0;
+    top: 0;
+    z-index: -1;
+}
