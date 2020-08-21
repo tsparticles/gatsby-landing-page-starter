@@ -19,7 +19,7 @@
     "gatsby": "^2.24.41",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-tsparticles": "^1.17.7",
+    "react-tsparticles": "^1.17.9",
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
     "@fortawesome/free-brands-svg-icons": "^5.14.0",
     "@fortawesome/free-regular-svg-icons": "^5.14.0",
