@@ -10046,13 +10046,13 @@ react-style-singleton@^2.1.0:
     tslib "^1.0.0"
 
 react-tsparticles@^1.17.9:
-  version "1.18.4"
-  resolved "https://registry.yarnpkg.com/react-tsparticles/-/react-tsparticles-1.18.4.tgz#ff15c11fbdefb7292e4a3d7a3d0f50244d452576"
-  integrity sha512-uFMXqBMRjrHFpbg6n+g6nUWp4CdFfbFf3fiqH3iVym1AE2nGcVezD/FUbCR28tp0KgeaKAO1hMWbvHi6u3QvNA==
+  version "1.18.5"
+  resolved "https://registry.yarnpkg.com/react-tsparticles/-/react-tsparticles-1.18.5.tgz#26720b31f9cd38223c537d7a166940f12c76851c"
+  integrity sha512-kIrj4NZu+hwaEl3NFFLgt5dUPUc8J7ntxAVrq7U/L+vyGNC1TTu2yTshBZfmCsMwg2MC5VWo9FWyBGSLsB85Sw==
   dependencies:
     lodash "^4.17.20"
     tslib "^2.0.3"
-    tsparticles "^1.18.4"
+    tsparticles "^1.18.5"
 
 react@^16.12.0, react@^16.8.0:
   version "16.14.0"
@@ -11806,13 +11806,12 @@ tslib@^2.0.0, tslib@^2.0.3, tslib@~2.0.0, tslib@~2.0.1:
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.0.3.tgz#8e0741ac45fc0c226e58a17bfc3e64b9bc6ca61c"
   integrity sha512-uZtkfKblCEQtZKBF6EBXVZeQNl82yqtDQdv+eck8u7tdPxjLu2/lp5/uPW+um2tpuxINHWy3GhiccY7QgEaVHQ==
 
-tsparticles@^1.18.4:
-  version "1.18.4"
-  resolved "https://registry.yarnpkg.com/tsparticles/-/tsparticles-1.18.4.tgz#d77144741f504f5ba69fd3f68ed80bf90bb94994"
-  integrity sha512-BzdWu6vi9KbZ/GyfRm05Bd/N5A+qou3YU57+J1Qdoer32MisdlzRiYCprFpX1HAAE6VzcnmD4yqMO49RqoYD3A==
-  dependencies:
+tsparticles@^1.18.5:
+  version "1.18.5"
+  resolved "https://registry.yarnpkg.com/tsparticles/-/tsparticles-1.18.5.tgz#9281b16b5eca0fc53f522b05f9a7b599a819d1ef"
+  integrity sha512-J+Dj0vMtKG8IKQ1EpqpMr5F05pZtxRoEmbp7U5RVCZdd+qtn4L6FvnLWMv4aQaVyX5hrSltPz8EYvUXI2GK0NA==
+  optionalDependencies:
     pathseg "^1.2.0"
-    tslib "^2.0.3"
 
 tsutils@^3.17.1:
   version "3.17.1"
