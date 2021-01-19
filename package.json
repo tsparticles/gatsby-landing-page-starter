@@ -58,7 +58,7 @@
     "deploy": "gh-pages -d public"
   },
   "dependencies": {
-    "gatsby": "^2.24.41",
+    "gatsby": "^2.31.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-tsparticles": "^1.17.9",
