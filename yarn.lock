@@ -2603,18 +2603,7 @@ browserslist@4.14.2:
     escalade "^3.0.2"
     node-releases "^1.1.61"
 
-browserslist@^4.0.0, browserslist@^4.12.2, browserslist@^4.14.5, browserslist@^4.16.1, browserslist@^4.16.3, browserslist@^4.8.5:
-  version "4.16.3"
-  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.16.3.tgz#340aa46940d7db878748567c5dea24a48ddf3717"
-  integrity sha512-vIyhWmIkULaq04Gt93txdh+j02yX/JzlyhLYbV3YQCn/zvES3JnY7TifHHvvr1w5hTDluNKMkV05cs4vy8Q7sw==
-  dependencies:
-    caniuse-lite "^1.0.30001181"
-    colorette "^1.2.1"
-    electron-to-chromium "^1.3.649"
-    escalade "^3.1.1"
-    node-releases "^1.1.70"
-
-browserslist@^4.16.0:
+browserslist@^4.0.0, browserslist@^4.12.2, browserslist@^4.14.5, browserslist@^4.16.0, browserslist@^4.16.1, browserslist@^4.16.3, browserslist@^4.8.5:
   version "4.16.6"
   resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.16.6.tgz#d7901277a5a88e554ed305b183ec9b0c08f66fa2"
   integrity sha512-Wspk/PqO+4W9qp5iUTJsa1B/QrYn1keNCcEP5OvP7WBwT4KaDly0uONYmC6Xa3Z5IqnUgS0KcgLYu1l74x0ZXQ==
@@ -3838,7 +3827,7 @@ ee-first@1.1.1:
   resolved "https://registry.yarnpkg.com/ee-first/-/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d"
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
-electron-to-chromium@^1.3.564, electron-to-chromium@^1.3.649:
+electron-to-chromium@^1.3.564:
   version "1.3.678"
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.678.tgz#c7c6960463167126b7ed076fade14cac6223bfff"
   integrity sha512-E5ha1pE9+aWWrT2fUD5wdPBWUnYtKnEnloewbtVyrkAs79HvodOiNO4rMR94+hKbxgMFQG4fnPQACOc1cfMfBg==
@@ -5090,9 +5079,9 @@ gatsby-telemetry@^2.5.0:
     uuid "3.4.0"
 
 gatsby@^3.5.0:
-  version "3.5.0"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-3.5.0.tgz#a0e7dd4310c585120d8b1782a3d1f8a3272b580e"
-  integrity sha512-xQXHC89ybLCYPWA0TTsY6my8mLCrtH2M/UKOrXaiU7DeNwLb7pLYJ915lo+Dtjj5yu43zMuLL/+jIDLm3FiOmQ==
+  version "3.5.1"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-3.5.1.tgz#f32a1d01ac1cdda4ff431c25985a1da9d04ebf1d"
+  integrity sha512-wmhU5dsm2Is/aFgNyxjnuVMNK1chP0Kg5cS15JWAk593xk/hUj0i/lomirNmzvl+2Yk2LC8KZ0M/8OM4cocrKg==
   dependencies:
     "@babel/code-frame" "^7.10.4"
     "@babel/core" "^7.12.3"
@@ -7350,7 +7339,7 @@ node-object-hash@^2.0.0:
   resolved "https://registry.yarnpkg.com/node-object-hash/-/node-object-hash-2.0.0.tgz#9971fcdb7d254f05016bd9ccf508352bee11116b"
   integrity sha512-VZR0zroAusy1ETZMZiGeLkdu50LGjG5U1KHZqTruqtTyQ2wfWhHG2Ow4nsUbfTFGlaREgNHcCWoM/OzEm6p+NQ==
 
-node-releases@^1.1.61, node-releases@^1.1.70, node-releases@^1.1.71:
+node-releases@^1.1.61, node-releases@^1.1.71:
   version "1.1.71"
   resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-1.1.71.tgz#cb1334b179896b1c89ecfdd4b725fb7bbdfc7dbb"
   integrity sha512-zR6HoT6LrLCRBwukmrVbHv0EpEQjksO6GmFcZQQuCAy139BEsoVKPYnf3jongYW83fAa1torLGYwxxky/p28sg==
@@ -8334,7 +8323,7 @@ postcss-value-parser@^4.0.2, postcss-value-parser@^4.1.0:
   resolved "https://registry.yarnpkg.com/postcss-value-parser/-/postcss-value-parser-4.1.0.tgz#443f6a20ced6481a2bda4fa8532a6e55d789a2cb"
   integrity sha512-97DXOFbQJhk71ne5/Mt6cOu6yxsSfM0QGQyl0L25Gca4yGWEGJaig7l7gbCX623VqTBNGLRLaVUCnNkcedlRSQ==
 
-postcss@8.2.6, postcss@^8.2.6:
+postcss@8.2.6:
   version "8.2.6"
   resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.2.6.tgz#5d69a974543b45f87e464bc4c3e392a97d6be9fe"
   integrity sha512-xpB8qYxgPuly166AGlpRjUdEYtmOWx2iCwGmrv4vqZL9YPVviDVPZPRXxnXr6xPZOdxQ9lp3ZBFCRgWJ7LE3Sg==
@@ -8343,7 +8332,7 @@ postcss@8.2.6, postcss@^8.2.6:
     nanoid "^3.1.20"
     source-map "^0.6.1"
 
-postcss@^8.2.9:
+postcss@^8.2.6, postcss@^8.2.9:
   version "8.2.15"
   resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.2.15.tgz#9e66ccf07292817d226fc315cbbf9bc148fbca65"
   integrity sha512-2zO3b26eJD/8rb106Qu2o7Qgg52ND5HPjcyQiK2B98O388h43A448LCslC0dI2P97wCAQRJsFvwTRcXxTKds+Q==
