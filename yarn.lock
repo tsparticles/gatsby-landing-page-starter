@@ -8695,13 +8695,13 @@ react-refresh@^0.9.0:
   integrity sha512-Gvzk7OZpiqKSkxsQvO/mbTN1poglhmAV7gR/DdIrRrSMXraRQQlfikRJOr3Nb9GTMPC5kof948Zy6jJZIFtDvQ==
 
 react-tsparticles@^1.17.9:
-  version "1.30.1"
-  resolved "https://registry.yarnpkg.com/react-tsparticles/-/react-tsparticles-1.30.1.tgz#daa24257016cf7335320f540b5309e8c261b0dd0"
-  integrity sha512-dSGZj1qFC6njIYeqGS8uNCVD6+chLl9XBWPFNq391MZV2+yAShXZT/0RDR0jHrbV50bUyhCTMnbxx9k1Tib2wQ==
+  version "1.30.2"
+  resolved "https://registry.yarnpkg.com/react-tsparticles/-/react-tsparticles-1.30.2.tgz#0321a8e81455bbd3b985214d90288c9a1cfdf393"
+  integrity sha512-GPnMLNmckTTRONGUdSrjlSNQPvXfkl5FoTc+hf7xiKkik2/vqmMfyoLGXuLYV2n2E+WYILkCOOnSwMNWIkg0hQ==
   dependencies:
     fast-deep-equal "^3.1.3"
     tslib "^2.3.0"
-    tsparticles "^1.30.1"
+    tsparticles "^1.30.2"
 
 react@^17.0.1:
   version "17.0.2"
@@ -10186,10 +10186,10 @@ tslib@~2.0.1:
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.0.3.tgz#8e0741ac45fc0c226e58a17bfc3e64b9bc6ca61c"
   integrity sha512-uZtkfKblCEQtZKBF6EBXVZeQNl82yqtDQdv+eck8u7tdPxjLu2/lp5/uPW+um2tpuxINHWy3GhiccY7QgEaVHQ==
 
-tsparticles@^1.30.1:
-  version "1.30.1"
-  resolved "https://registry.yarnpkg.com/tsparticles/-/tsparticles-1.30.1.tgz#77462b92def50b09aee832453827deb8d6fdc057"
-  integrity sha512-0mdjTAxqhiV+aV79vzFojueUjggPnUg5x3lXjMHPD7vH6tmRuT96rQ3gNjFsJN7y5HkA5nKqTFssQGIBET0zZQ==
+tsparticles@^1.30.2:
+  version "1.30.2"
+  resolved "https://registry.yarnpkg.com/tsparticles/-/tsparticles-1.30.2.tgz#a77841eadccf97cbcc8f171ed5599f37fd39ceb5"
+  integrity sha512-S9NXMN6MloJO/+cqh72i2hhtuxm2anVdJmcvjcYHe/jJYfsNdQ5sxpMy82d3sGk6bREzt8ZW/oPXeyPhf6q6fg==
   optionalDependencies:
     pathseg "^1.2.0"
 
