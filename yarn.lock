@@ -1284,7 +1284,7 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@fortawesome/fontawesome-common-types@^0.2.35", "@fortawesome/fontawesome-common-types@^0.2.36":
+"@fortawesome/fontawesome-common-types@^0.2.36":
   version "0.2.36"
   resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-0.2.36.tgz#b44e52db3b6b20523e0c57ef8c42d315532cb903"
   integrity sha512-a/7BiSgobHAgBWeN7N0w+lAhInrGxksn13uK7231n2m8EDPE3BMCl9NZLTGrj9ZXfCmC6LM0QLqXidIizVQ6yg==
@@ -5224,9 +5224,9 @@ gatsby-worker@^0.2.0:
     "@babel/core" "^7.14.6"
 
 gatsby@^3.5.0:
-  version "3.11.0"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-3.11.0.tgz#302c43468aca56460ff64d6e8304451e053de341"
-  integrity sha512-bESvnN7BJFshzHUnMx2qUSWTe6uBUHjuj1hn+V9mi19wxR7GH1ZCERGtzBi3lezwRtotYb/jed933mJ8Emg2UA==
+  version "3.11.1"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-3.11.1.tgz#888973ee1f97b63d8cb549921b4c2624b152f36b"
+  integrity sha512-KDMdMBrqPiS50CNjlhOdEZLz2PWewgDNbjnfSTYCxxFifTdi09wbNynnbAQ879nbhRTd0tGsNv6YGRsVEIbSQA==
   dependencies:
     "@babel/code-frame" "^7.14.0"
     "@babel/core" "^7.14.6"
