@@ -6806,11 +6806,11 @@ react-side-effect@^2.1.0:
   resolved "https://registry.npmjs.org/react-side-effect/-/react-side-effect-2.1.1.tgz"
 
 react-tsparticles@^1.17.9:
-  version "1.37.0"
-  resolved "https://registry.yarnpkg.com/react-tsparticles/-/react-tsparticles-1.37.0.tgz#9ff65ab584ba5ccc8d15a87951be8e4b784ea0d6"
+  version "1.37.2"
+  resolved "https://registry.yarnpkg.com/react-tsparticles/-/react-tsparticles-1.37.2.tgz#0233e2330f6aa1b1e0b729f3a06925b48833cce7"
   dependencies:
     fast-deep-equal "^3.1.3"
-    tsparticles "^1.37.0"
+    tsparticles "^1.37.2"
 
 react@^17.0.1:
   version "17.0.2"
@@ -7927,9 +7927,9 @@ tslib@~2.0.1:
   version "2.0.3"
   resolved "https://registry.npmjs.org/tslib/-/tslib-2.0.3.tgz"
 
-tsparticles@^1.37.0:
-  version "1.37.0"
-  resolved "https://registry.yarnpkg.com/tsparticles/-/tsparticles-1.37.0.tgz#1c3bd594215d36ba1549ac24db2ba68662624fb7"
+tsparticles@^1.37.2:
+  version "1.37.2"
+  resolved "https://registry.yarnpkg.com/tsparticles/-/tsparticles-1.37.2.tgz#23c3f73d6a8e33b1e653979da73d60e619d1b8f2"
 
 tsutils@^3.21.0:
   version "3.21.0"
