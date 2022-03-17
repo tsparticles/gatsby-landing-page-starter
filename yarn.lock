@@ -968,8 +968,8 @@
     "@fortawesome/fontawesome-common-types" "6.1.0"
 
 "@fortawesome/react-fontawesome@^0.1.11":
-  version "0.1.17"
-  resolved "https://registry.yarnpkg.com/@fortawesome/react-fontawesome/-/react-fontawesome-0.1.17.tgz#06fc06cb1a721e38e5b50b4a1cb851e9b9c77d7a"
+  version "0.1.18"
+  resolved "https://registry.yarnpkg.com/@fortawesome/react-fontawesome/-/react-fontawesome-0.1.18.tgz#dae37f718a24e14d7a99a5496c873d69af3fbd73"
   dependencies:
     prop-types "^15.8.1"
 
