@@ -943,11 +943,15 @@
   version "6.1.0"
   resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-6.1.0.tgz#5a9468da0e5c2a3ccc161882ef5ffafbd3d4882f"
 
+"@fortawesome/fontawesome-common-types@6.1.1":
+  version "6.1.1"
+  resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-6.1.1.tgz#7dc996042d21fc1ae850e3173b5c67b0549f9105"
+
 "@fortawesome/fontawesome-svg-core@^6.1.0":
-  version "6.1.0"
-  resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-svg-core/-/fontawesome-svg-core-6.1.0.tgz#b78a43df315a6b1568d803ee48a9f1edea0714aa"
+  version "6.1.1"
+  resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-svg-core/-/fontawesome-svg-core-6.1.1.tgz#3424ec6182515951816be9b11665d67efdce5b5f"
   dependencies:
-    "@fortawesome/fontawesome-common-types" "6.1.0"
+    "@fortawesome/fontawesome-common-types" "6.1.1"
 
 "@fortawesome/free-brands-svg-icons@^6.0.0":
   version "6.1.0"
