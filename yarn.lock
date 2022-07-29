@@ -939,10 +939,6 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@fortawesome/fontawesome-common-types@6.1.1":
-  version "6.1.1"
-  resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-6.1.1.tgz#7dc996042d21fc1ae850e3173b5c67b0549f9105"
-
 "@fortawesome/fontawesome-common-types@6.1.2":
   version "6.1.2"
   resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-6.1.2.tgz#c1095b1bbabf19f37f9ff0719db38d92a410bcfe"
@@ -6804,9 +6800,9 @@ react-side-effect@^2.1.0:
   resolved "https://registry.npmjs.org/react-side-effect/-/react-side-effect-2.1.1.tgz"
 
 react-tsparticles@^2.1.3:
-  version "2.1.3"
-  resolved "https://registry.yarnpkg.com/react-tsparticles/-/react-tsparticles-2.1.3.tgz#45e570d869c3b26760525d8dcc52ea5cc8095f0c"
-  integrity sha512-1Jc0Z8umkCHzY3qebs7nBLUXfeygEBAdubfWg7PjeYuYmjUHymneUXzXGiPLbqIMN+QQNM69485O3QLWks9lng==
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/react-tsparticles/-/react-tsparticles-2.1.4.tgz#066148a252a3ec715f200e716900ade4a92e3749"
+  integrity sha512-V6UJizW4e30HgzMmBte712q3xhJYhcpHxwFt2WJDS1TypqedB43/GhJdnHxRAOuqne6KzbQUOIDyy0ZySvvqiw==
   dependencies:
     fast-deep-equal "^3.1.3"
     tsparticles-engine "^2.0.6"
@@ -7926,11 +7922,7 @@ tslib@~2.0.1:
   version "2.0.3"
   resolved "https://registry.npmjs.org/tslib/-/tslib-2.0.3.tgz"
 
-tsparticles-engine@^2.0.6:
-  version "2.0.6"
-  resolved "https://registry.yarnpkg.com/tsparticles-engine/-/tsparticles-engine-2.0.6.tgz#27e85d8d014a2d9435ffc9a2c7efd570baf6dc64"
-
-tsparticles-engine@^2.1.3:
+tsparticles-engine@^2.0.6, tsparticles-engine@^2.1.3:
   version "2.1.3"
   resolved "https://registry.yarnpkg.com/tsparticles-engine/-/tsparticles-engine-2.1.3.tgz#d8922cf7811c40e5e9b87b18f9cc86043af8e900"
   integrity sha512-BmCo534tF5yRQofUczGSfCFrdeMYO6e7FXHv6AdRxL+j9NNPH3zF4HX6k24tbO4kmTH8tGX/+F9mugEQVo9AEg==
