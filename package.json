@@ -65,8 +65,8 @@
     "@fortawesome/react-fontawesome": "^0.2.0",
     "gatsby": "^5.0.0",
     "gatsby-plugin-react-helmet": "^6.0.0",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
     "react-helmet": "^6.1.0",
     "react-tsparticles": "^2.1.3",
     "tsparticles": "^2.1.3"
