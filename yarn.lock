@@ -5328,9 +5328,9 @@ gatsby-worker@^2.12.0:
     signal-exit "^3.0.7"
 
 gatsby@^5.0.0:
-  version "5.12.2"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-5.12.2.tgz#bc5a709c3ccf3263cb93e26e734cb5e3000dc5b0"
-  integrity sha512-IUOqbrK65ULiEGrEQ8pWS++i/kohMFRC6qmEbt7dp3vdBTQIAVRxff7QzAb+BXsXuDLfygEZr3EcEeYoSGin/g==
+  version "5.12.3"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-5.12.3.tgz#3e3e1b503d759d445aaf0825f051632536bc6584"
+  integrity sha512-+qO2gKA95HH+b4RCf3AYHOW3Pz8YC1t3W9MOwbUQe7QgDXd0D9lRc7YAqk8XuXp8Pkp/NWuoeZY3d/1B8d8nng==
   dependencies:
     "@babel/code-frame" "^7.18.6"
     "@babel/core" "^7.20.12"
